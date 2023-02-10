@@ -1,0 +1,152 @@
+body{
+    
+    
+}
+
+.bgimg{
+    padding-left: 0;
+    width: 100%;
+    height: 2250px;
+    position: absolute;
+    display: inline;
+    z-index: -1;
+}
+#barr{
+    /* padding-top: 30px; */
+
+    /* padding: 3% 10%; */
+    margin-bottom: 0;
+    
+    /* background-color:  ; */
+}
+.pics{text-align: center;}
+ .container{
+    display: inline-block;
+    /* display: inline-block;  */
+}
+#logo{
+
+    padding-left: 20px;
+    padding-bottom: 10px;
+    height : 50px;
+}
+.card{
+    margin-top: 50px;
+    /* position: relative; */
+    /* margin-bottom: 100px; */
+    margin-left: 150px;
+}
+.card-body{
+    
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(56, 205, 73);
+    background-color: white;
+}
+#seemore{
+    padding-top:40px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+#seemore1{
+    padding: 30px;
+}
+.container{
+    padding: 0;
+}
+.container-fluid{
+    width: 100%;
+    height:100px;
+    align-content: center;
+    /* margin-left: 300px; */
+}
+.navbar-brand{
+    color: white;
+    margin-left: 100px;
+    width: 150px;
+    font-family: 'Courgette', cursive;
+    font-weight:900;
+    font-size: x-large;
+    font-style: italic;
+}
+#pics{
+    
+}
+.nav-item{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    padding: 0 30px;
+    font-weight:300;
+    font-size: large;
+    font-style: italic;
+
+
+}
+
+#dropdownMenuButton1{   
+    margin-left: 10px;
+}
+#more{
+    font-family: 'Montserrat', sans-serif;
+    /* font-weight: xx-large; */
+    text-align: center;
+}
+
+#carouselExampleIndicators{
+    /* display: inline-block; */
+    text-align: center;
+}
+#boxy{
+    color: white;
+    background-color: black;
+    margin-top: 100px; 
+    text-align: center;
+} 
+#boxy h1{
+    /* padding-top: ; */
+    padding-bottom: 3%;
+}
+.s-show{
+    border-radius: 8%;
+    margin:auto 3% auto 3%;
+    display: inline;
+    height: 400px;
+    padding-bottom: 50px ;
+}
+
+
+#social-media {
+    background: #1b95b6;
+    height: 400px;
+    font-family: 'Montserrat', sans-serif;
+    padding: 50px 30px;
+    font-weight:300;
+  }
+  
+  /* Add color to Social Media Links */
+  .media_link {
+    padding: 1rem;
+    max-width: 15rem;
+    margin-left: 1rem;
+    border: 3px solid #fafafa;
+    border-radius: 0.5rem;
+  }
+  
+  
+  #link{
+    color: #f3f3f3;
+  }
+  
+  .btn{
+    border: 1px solid #fafafa;
+  }
+  #socio{
+    margin-left: 200px;
+  }
+  .contacts h1{
+    width: 100%;
+    text-align: center;
+  }
+/* .extras{
+    display: none;
+  }  */
